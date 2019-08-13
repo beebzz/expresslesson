@@ -1,0 +1,36 @@
+{
+  "jordan":[
+    {
+      "name": "I",
+      "colorways": ["bred, shadow"],
+      "sizes": [8, 12],
+      "price": 340
+    },
+    {
+      "name": "III",
+      "colorways": ["black cement", "crimson", "fear"],
+      "sizes": [9, 10, 11.5],
+      "price": 280
+    },
+    {
+      "name": "XI",
+      "colorways": ["spacejam", "concord"],
+      "sizes": [7, 9, 11, 12],
+      "price": 380
+    }
+  ],
+  "yeezy": [
+    {
+      "name": "700",
+      "colorways": ["utility black", "geode"],
+      "sizes": [7, 9, 10, 11, 12],
+      "price": 270
+    },
+    {
+      "name": "350",
+      "colorways": ["clay"],
+      "sizes": [9, 10],
+      "price": 320
+    }
+  ]
+}
