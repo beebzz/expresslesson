@@ -6,3 +6,4 @@
 - Run
   > node server.js
 - Open [localhost:4000](http://localhost:4000) on browser
+- Specify query parameters in URL path in following format: localhost:4000/sneakers?brand=BRAND_NAME&budget=BUDGET_AMOUNT
